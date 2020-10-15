@@ -1,5 +1,5 @@
 {
-    "name": "zelenin/smsru",
+    "name": "serderovsh/smsru",
     "description": "PHP-класс для работы с api сервиса [sms.ru](http://sms.ru)",
     "type": "library",
     "keywords": [
